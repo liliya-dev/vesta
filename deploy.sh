@@ -1,4 +1,4 @@
-#git add -f ./dist
+# git add -f ./dist
 git commit -m "build"
 # git push --delete origin gh-pages
 git subtree --prefix dist push origin gh-pages
