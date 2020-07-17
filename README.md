@@ -1,5 +1,5 @@
 # FE Template
 
-[DEMO](https://aleksey-10.github.io/{repo-name}/)
+[DEMO](https://liliya-dev.github.io/vesta/)
 
 To use linter correctly use plugins: ESLint, LintHTML, stylelint.
